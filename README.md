@@ -17,6 +17,10 @@ current state-of-the-art score by 7.7%. Both
 approaches are based on BERT models using
 additional features of the chats as inputs.
 
+Paper.pdf contains the documentation of our approach.
+Poster.pdf is a poster version
+src/ is all the code. data/ is missing because the private dataset we used required access permission.
+
 ---
 
 This project was developed in the context of the course "Computational Semantics for NLP" at ETH Zurich.
